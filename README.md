@@ -14,3 +14,6 @@
 	This script slices the image into individual files
 		
   For example this script takes a 800x600 images and slices it to 800 1x600 individual image files. You can set your own size.
+
+**Duplications_in_csv.py**
+	This script checks thru a folder of .csv and checks for duplicate entries and colects them to a new .csv-file

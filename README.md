@@ -17,3 +17,6 @@
 
 **Duplications_in_csv.py**
 	This script checks thru a folder of .csv and checks for duplicate entries and colects them to a new .csv-file
+
+**odd_color_pixels.py**
+	This script checks all pixels and checks for pixel of a different rgba-value. Great when looking at a seemingly solid color image.
